@@ -69,7 +69,7 @@ const Footer: React.FC = () => {
               transition={{ duration: 0.2 }}
             >
               <Code2 className="w-8 h-8 text-blue-400" />
-              <span className="text-2xl font-bold">abhiTechCode302</span>
+              <span className="text-2xl font-bold">abhiTechCodes</span>
             </motion.div>
             <p className="text-gray-400 mb-6 max-w-md leading-relaxed">
               Full Stack Developer passionate about creating exceptional digital

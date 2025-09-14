@@ -52,7 +52,7 @@ const Header: React.FC = () => {
           >
             <Code2 className="w-8 h-8 text-blue-600 dark:text-blue-400" />
             <span className="text-xl font-bold text-gray-900 dark:text-white">
-              abhiTechCode302
+              abhiTechCode
             </span>
           </motion.div>
 
