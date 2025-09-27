@@ -7,7 +7,7 @@ const About: React.FC = () => {
   const workExperience = [
     {
       id: 1,
-      position: "Full Stack Developer",
+      position: "Full Stack Developer Intern",
       company: "NIELIT Gorakhpur",
       duration: "Mar 2025 - May 2025",
       location: "Gorakhpur UP",
