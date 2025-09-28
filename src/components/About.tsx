@@ -104,6 +104,35 @@ const About: React.FC = () => {
 
   const education = [
     {
+      degree: 'M.Tech(Computer Science)(NIELIT C-LEVEL(IT))',
+      institution: 'National Institute Of Electronics and Information Technology (NIELIT) New Delhi',
+      year: '2025-Present',
+      achievements: [
+        'Appearing',
+        // 'Research in Machine Learning and AI',
+        // 'Published 3 papers in top-tier conferences',
+        // 'Teaching Assistant for Advanced Algorithms'
+      ],
+      coreSubjects: [
+        'Advanced Computer Graphics  ',
+        'Advanced Computer Networks ',
+        'Mathematical Methods for Computing  ',
+        'Advanced Algorithms ',
+        'Data Warehousing and Data Mining ',
+        'Multimedia Systems  ',
+        'Digital Image Processing and Computer Vision  ',
+        'Information Security ',
+        'Soft Computing ',
+        'Software Systems  ',
+        'Machine Learning',
+        'Digital Signal Processing '
+    
+      ],
+      link: '',
+      linkText: 'Certificate',
+      color: 'from-blue-500 to-purple-600'
+    },
+    {
       degree: 'MCA(NIELIT B-LEVEL(IT))',
       institution: 'National Institute Of Electronics and Information Technology (NIELIT) Gorakhpur',
       year: '2022 - 2025',
