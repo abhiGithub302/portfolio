@@ -209,7 +209,7 @@ const Contact: React.FC = () => {
                       onChange={handleInputChange}
                       required
                       className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-gray-50 dark:bg-gray-800 text-gray-900 dark:text-white transition-colors duration-200"
-                      placeholder="abhi"
+                      placeholder="Harish Chandra"
                     />
                   </div>
                   <div>
@@ -224,7 +224,7 @@ const Contact: React.FC = () => {
                       onChange={handleInputChange}
                       required
                       className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-gray-50 dark:bg-gray-800 text-gray-900 dark:text-white transition-colors duration-200"
-                      placeholder="yadav"
+                      placeholder="Yadav"
                     />
                   </div>
                 </div>
@@ -241,7 +241,7 @@ const Contact: React.FC = () => {
                     onChange={handleInputChange}
                     required
                     className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-gray-50 dark:bg-gray-800 text-gray-900 dark:text-white transition-colors duration-200"
-                    placeholder="+1 (555) 123-4567"
+                    placeholder="+919999999999"
                   />
                 </div>
 

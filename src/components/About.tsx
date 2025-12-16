@@ -9,7 +9,7 @@ const About: React.FC = () => {
       id: 1,
       position: "Full Stack Developer Intern",
       company: "NIELIT Gorakhpur",
-      duration: "Mar 2025 - May 2025",
+      duration: "May 2025 - Oct 2025",
       location: "Gorakhpur UP",
       description: "Enhanced the NIELIT SkillHub portal by developing dynamic and responsive features using PHP,MySQL,HTML,CSS,Javascript.",
       responsibilities: [
@@ -26,54 +26,43 @@ const About: React.FC = () => {
         "Contributed to a seamless user experience through efficient backend–frontend integration."
       ],
       technologies: ["HTML", "CSS", "Bootstrap", "javascript", "PHP", "Mysql", "SQL","payu"],
-      companyUrl: "https://nielitup.in/"
+      companyUrl: "https://www.nielit.gov.in/gorakhpur/index.php"
     },
-    // {
-    //   id: 2,
-    //   position: "Full Stack Developer",
-    //   company: "Digital Innovations Inc.",
-    //   duration: "Jun 2020 - Dec 2021",
-    //   location: "Remote",
-    //   description: "Developed and maintained multiple client projects ranging from e-commerce platforms to data visualization dashboards.",
-    //   responsibilities: [
-    //     "Built responsive web applications using React, Vue.js, and Angular",
-    //     "Developed RESTful APIs and GraphQL endpoints using Node.js and Python",
-    //     "Integrated third-party services including payment gateways and analytics tools",
-    //     "Optimized database queries and implemented caching strategies",
-    //     "Participated in agile development processes and sprint planning"
-    //   ],
-    //   achievements: [
-    //     "Delivered 20+ successful projects for various clients",
-    //     "Improved client satisfaction scores by 35%",
-    //     "Reduced API response times by 45% through optimization",
-    //     "Implemented automated testing increasing code coverage to 85%"
-    //   ],
-    //   technologies: ["React", "Vue.js", "Python", "Django", "MongoDB", "GraphQL", "Jest"],
-    //   companyUrl: "https://digitalinnovations.com"
-    // },
-    // {
-    //   id: 3,
-    //   position: "Frontend Developer",
-    //   company: "StartupXYZ",
-    //   duration: "Aug 2019 - May 2020",
-    //   location: "New York, NY",
-    //   description: "Focused on creating intuitive user interfaces and improving user experience for the company's main product.",
-    //   responsibilities: [
-    //     "Developed responsive UI components using React and CSS-in-JS libraries",
-    //     "Collaborated with UX/UI designers to implement pixel-perfect designs",
-    //     "Optimized web applications for performance and accessibility",
-    //     "Maintained and updated legacy codebase",
-    //     "Participated in user testing sessions and gathered feedback"
-    //   ],
-    //   achievements: [
-    //     "Improved page load times by 30% through code splitting and lazy loading",
-    //     "Achieved 98% accessibility compliance (WCAG 2.1 AA)",
-    //     "Increased user engagement by 25% through UI/UX improvements",
-    //     "Successfully migrated legacy jQuery code to modern React"
-    //   ],
-    //   technologies: ["React", "JavaScript", "SASS", "Webpack", "Jest", "Cypress"],
-    //   companyUrl: "https://startupxyz.com"
-    // }
+    {
+  id: 2,
+  position: "Jr. Resource Person (Software Development)",
+  company: "NIELIT Gorakhpur",
+  duration: "Nov 2025 – Present",
+  location: "Gorakhpur, Uttar Pradesh",
+  description:
+    "Working as a Full Stack Developer on the NIELIT SkillHub portal after successful completion of internship, with increased responsibilities in development, maintenance, and system enhancement.",
+  responsibilities: [
+    "Independently developing and maintaining backend modules using PHP and MySQL.",
+    "Enhancing existing frontend components for better responsiveness and usability using HTML, CSS, Bootstrap, and JavaScript.",
+    "Managing secure online payment workflows for course fee transactions.",
+    "Handling application logic, sessions, validations, and database optimizations.",
+    "Fixing production-level bugs and improving overall system stability.",
+    "Coordinating with administrative and technical teams for feature updates and deployments."
+  ],
+  achievements: [
+    "Transitioned from intern to full-time developer based on performance and contribution.",
+    "Improved reliability of the SkillHub portal through continuous bug fixes and enhancements.",
+    "Optimized payment and application workflows for smoother student onboarding.",
+    "Played a key role in maintaining a production-level government platform."
+  ],
+  technologies: [
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "JavaScript",
+    "PHP",
+    "MySQL",
+    "SQL",
+    "PayU"
+  ],
+  companyUrl: "https://www.nielit.gov.in/gorakhpur/index.php"
+}
+
   ];
   const skills = [
     {
