@@ -5,31 +5,8 @@ import { motion } from 'framer-motion';
 const About: React.FC = () => {
    
   const workExperience = [
-    {
-      id: 2,
-      position: "Full Stack Developer Intern",
-      company: "NIELIT Gorakhpur",
-      duration: "May 2025 - Oct 2025",
-      location: "Gorakhpur UP",
-      description: "Enhanced the NIELIT SkillHub portal by developing dynamic and responsive features using PHP,MySQL,HTML,CSS,Javascript.",
-      responsibilities: [
-        "Integrated a secure payment gateway for online course fee transactions post-application.",
-        "Collaborated with backend developers to connect MySQL databases and RESTful PHP APIs with the frontend.",
-        "Performed bug diagnosis and fixes for both functional issues and UI inconsistencies.",
-        // "Implemented CI/CD pipelines reducing deployment time by 60%",
-        // "Conducted code reviews and established coding standards for the team"
-      ],
-      achievements: [
-        "Successfully deployed a secure online payment solution, improving convenience for students.",
-        "Enhanced portal usability and responsiveness, resulting in better cross-device compatibility.",
-        "Improved system stability by resolving recurring functional and UI bugs.",
-        "Contributed to a seamless user experience through efficient backend–frontend integration."
-      ],
-      technologies: ["HTML", "CSS", "Bootstrap", "javascript", "PHP", "Mysql", "SQL","payu"],
-      companyUrl: "https://www.nielit.gov.in/gorakhpur/index.php"
-    },
-    {
-  id: 1,
+       {
+  id: 2,
   position: "Jr. Resource Person (Software Development)",
   company: "NIELIT Gorakhpur",
   duration: "Nov 2025 – Present",
@@ -53,15 +30,42 @@ const About: React.FC = () => {
   technologies: [
     "HTML",
     "CSS",
-    "Bootstrap",
+    "TailwindCSS",
     "JavaScript",
+    "React",
+    "Node.Js",
     "PHP",
     "MySQL",
     "SQL",
-    "PayU"
+    "PayU",
+    "Azure",
   ],
   companyUrl: "https://www.nielit.gov.in/gorakhpur/index.php"
-}
+},
+    {
+      id: 1,
+      position: "Full Stack Developer Intern",
+      company: "NIELIT Gorakhpur",
+      duration: "May 2025 - Oct 2025",
+      location: "Gorakhpur UP",
+      description: "Enhanced the NIELIT SkillHub portal by developing dynamic and responsive features using PHP,MySQL,HTML,CSS,Javascript.",
+      responsibilities: [
+        "Integrated a secure payment gateway for online course fee transactions post-application.",
+        "Collaborated with backend developers to connect MySQL databases and RESTful PHP APIs with the frontend.",
+        "Performed bug diagnosis and fixes for both functional issues and UI inconsistencies.",
+        // "Implemented CI/CD pipelines reducing deployment time by 60%",
+        // "Conducted code reviews and established coding standards for the team"
+      ],
+      achievements: [
+        "Successfully deployed a secure online payment solution, improving convenience for students.",
+        "Enhanced portal usability and responsiveness, resulting in better cross-device compatibility.",
+        "Improved system stability by resolving recurring functional and UI bugs.",
+        "Contributed to a seamless user experience through efficient backend–frontend integration."
+      ],
+      technologies: ["HTML", "CSS", "Bootstrap", "javascript", "PHP", "Mysql", "SQL","payu"],
+      companyUrl: "https://www.nielit.gov.in/gorakhpur/index.php"
+    }
+ 
 
   ];
   const skills = [
