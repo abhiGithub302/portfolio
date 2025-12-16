@@ -198,27 +198,27 @@ const About: React.FC = () => {
       linkText: 'Certificate',
       color: 'from-purple-500 to-pink-500'
     },
-    // {
-    //   degree: 'NIELIT O-LEVEL(IT) (Equi. to Diploma in Computer Application)',
-    //   institution: 'National Institute Of Electronics and Information Technology (NIELIT) Gorakhpur',
-    //   year: '2017-2019',
-    //   achievements: [
-    //     'Passed with 74 %',
-    //     // 'Built 5 full-stack applications',
-    //     // 'Mentored junior developers',
-    //     // 'Certificate of Excellence'
-    //   ],
-    //   coreSubjects: [
-    //     'Programming through Python',
-    //     'Information Communication Technology',
-    //     ' Internet Technology and Web Design',
-    //     // 'Introduction to DBMS ',
+    {
+      degree: 'NIELIT O-LEVEL(IT) (Equi. to Diploma in Computer Application)',
+      institution: 'National Institute Of Electronics and Information Technology (NIELIT) Gorakhpur',
+      year: '2017-2019',
+      achievements: [
+        'Passed with 74 %',
+        // 'Built 5 full-stack applications',
+        // 'Mentored junior developers',
+        // 'Certificate of Excellence'
+      ],
+      coreSubjects: [
+        'Programming through Python',
+        'Information Communication Technology',
+        ' Internet Technology and Web Design',
+        // 'Introduction to DBMS ',
         
-    //   ],
-    //   link: 'https://www.dropbox.com/scl/fi/026vvlm80g76473lpapes/O_LEVEL_SIgned.pdf?rlkey=me6yri7wy7yvvm447f87j9zwv&st=wri4mdod&dl=0',
-    //   linkText: 'Certificate',
-    //   color: 'from-purple-500 to-pink-500'
-    // }
+      ],
+      link: 'https://www.dropbox.com/scl/fi/026vvlm80g76473lpapes/O_LEVEL_SIgned.pdf?rlkey=me6yri7wy7yvvm447f87j9zwv&st=wri4mdod&dl=0',
+      linkText: 'Certificate',
+      color: 'from-purple-500 to-pink-500'
+    }
   ];
 
   const containerVariants = {
