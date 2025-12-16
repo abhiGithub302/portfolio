@@ -79,8 +79,8 @@ const Contact: React.FC = () => {
     {
       icon: MapPin,
       title: 'Location',
-      value: 'New Delhi India',
-      href: 'https://maps.google.com',
+      value: 'Gorakhpur India',
+      href: 'https://www.google.com/maps/place/Gorakhpur,+Uttar+Pradesh/@26.7638446,83.3215096,12z/data=!4m15!1m8!3m7!1s0x3991446a0c332489:0x1ff3f97fdcc6bfa2!2sGorakhpur,+Uttar+Pradesh!3b1!8m2!3d26.7605545!4d83.3731675!16zL20vMDRicXZ2!3m5!1s0x3991446a0c332489:0x1ff3f97fdcc6bfa2!8m2!3d26.7605545!4d83.3731675!16zL20vMDRicXZ2?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D',
       color: 'from-purple-400 to-purple-600'
     }
   ];
