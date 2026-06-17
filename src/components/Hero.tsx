@@ -178,7 +178,7 @@ const Hero: React.FC = () => {
               transition={{ duration: 0.8, delay: 0.7 }}
             >
               <span className="text-blue-600 dark:text-blue-400 font-semibold">
-                MCA(B-LEVEL(IT)){" "}
+                MCA(IT Application Engineer ('B' Level)){" "}
               </span>
               master's graduate from NIELIT. A passionate{" "}
               <span className="text-blue-600 dark:text-blue-400 font-semibold">
