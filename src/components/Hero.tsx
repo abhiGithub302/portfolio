@@ -8,7 +8,7 @@ import {
   MessageCircleCode,
 } from "lucide-react";
 import { motion } from "framer-motion";
-import img from "../images/ab.jpeg";
+import img from "../images/ab.jpg";
 import cv from "../images/Abhishek_Yadav_Resume.pdf";
 const Hero: React.FC = () => {
   const scrollToAbout = () => {
